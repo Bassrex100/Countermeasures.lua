@@ -17,7 +17,7 @@ Fully customizable aircraft flare, chaff & smoke countermeasures.
 - **HTTP:** *Unused*
 - **Memory:** *Unused*
 
-## Installation
+## [Installation](https://gta.2take1.menu/dev/scripts/#manual-installation)
 1. Download the [**latest version**](https://github.com/Bassrex100/Countermeasures.lua/releases/latest/download/Countermeasures.lua) of the script, or one of your choosing from the [**releases page**](https://github.com/Bassrex100/Countermeasures.lua/releases).
 2. Put the downloaded `Countermeasures.lua` file into the `%appdata%\PopstarDevs\2Take1Menu\scripts` directory.
 3. You can now [**execute the script**](https://gta.2take1.menu/dev/scripts/#running-scripts) at `Local → Scripts → Countermeasures.lua → Run` from within 2Take1.
