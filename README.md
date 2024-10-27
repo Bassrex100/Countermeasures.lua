@@ -3,7 +3,7 @@ Fully customizable aircraft flare, chaff & smoke countermeasures.
 
 ## Key Features
 - Custom countermeasure settings for each individual aircraft.
-- Control options for individual countermeasure control.
+- Control options for individual countermeasure control. [^1]
 - Enable more than one countermeasure at a time.
 - Custom flare position, angle & sequence order.
 - Custom chaff PTFX position, angle & scale.
@@ -21,3 +21,5 @@ Fully customizable aircraft flare, chaff & smoke countermeasures.
 1. Download the [**latest version**](https://github.com/Bassrex100/Countermeasures.lua/releases/latest/download/Countermeasures.lua) of the script, or one of your choosing from the [**releases page**](https://github.com/Bassrex100/Countermeasures.lua/releases).
 2. Put the downloaded `Countermeasures.lua` file into the `%appdata%\PopstarDevs\2Take1Menu\scripts` directory.
 3. You can now [**execute the script**](https://gta.2take1.menu/dev/scripts/#running-scripts) at `Local → Scripts → Countermeasures.lua → Run` from within 2Take1.
+
+[^1]: Short press to activate the countermeasure & long press/hold to use the specified input's default action.
