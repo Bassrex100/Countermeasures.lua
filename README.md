@@ -3,7 +3,7 @@ Fully customizable aircraft flare, chaff & smoke countermeasures.
 
 ## Key Features
 - Custom countermeasure settings for each individual aircraft.
-- Control options for activating individual countermeasures.
+- Control options for individual countermeasure control.
 - Enable more than one countermeasure at a time.
 - Custom flare position, angle & sequence order.
 - Custom chaff PTFX position, angle & scale.
